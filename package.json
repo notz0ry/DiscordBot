@@ -1,0 +1,23 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "- ööööö\r # lmao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VonFriedricht/DiscordBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VonFriedricht/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/VonFriedricht/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "socket.io": "^2.1.1"
+  }
+}
